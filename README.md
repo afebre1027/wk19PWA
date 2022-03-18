@@ -19,3 +19,9 @@
 > > WHEN the user reestablishes an internet connection
 > >
 > > > THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+
+
+## Links
+* github user: afebre1027
+* github repo: https://afebre1027.github.io/wk19PWA/
+* heroku repo: https://dashboard.heroku.com/apps/morning-reaches-19564
