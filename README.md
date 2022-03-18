@@ -25,3 +25,5 @@
 * github user: afebre1027
 * github repo: https://afebre1027.github.io/wk19PWA/
 * heroku repo: https://dashboard.heroku.com/apps/morning-reaches-19564
+
+![screen shot of budget tracker delpoyed to heroku](./Screenshot.png)
